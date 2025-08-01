@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C and Data Structures,Python.
 - 👯 I’m looking to collaborate on IT Department. 
 - 😄 Pronouns: She
-- ⚡ Fun fact: Painting
+- ⚡ Fun fact: Painting. 
 
 ##skills
 - python.
